@@ -1,0 +1,3441 @@
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Time successfully set for device 27
+Device whose ID = 33 is successfully opened.
+Time successfully set for device 33
+Device whose ID = 37 is successfully opened.
+Time successfully set for device 37
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+327           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1536828436, Thu Sep 13 08:47:16 2018  | U
+
+Error while trying to send Real Time Event. CURL CODE = 7
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+327           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1536828436, Thu Sep 13 08:47:16 2018  | U
+
+Error while trying to send Real Time Event. CURL CODE = 7
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829051, Thu Sep 13 08:57:31 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829051, Thu Sep 13 08:57:31 2018
+Device number : 37 time is : GMT= 1536829051, Thu Sep 13 08:57:31 2018
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829093, Thu Sep 13 08:58:13 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829094, Thu Sep 13 08:58:14 2018
+Device number : 37 time is : GMT= 1536829094, Thu Sep 13 08:58:14 2018
+---------------------------------------------------------
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829094, Thu Sep 13 08:58:14 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829094, Thu Sep 13 08:58:14 2018
+Device number : 37 time is : GMT= 1536829095, Thu Sep 13 08:58:15 2018
+---------------------------------------------------------
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829095, Thu Sep 13 08:58:15 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829095, Thu Sep 13 08:58:15 2018
+Device number : 37 time is : GMT= 1536829095, Thu Sep 13 08:58:15 2018
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829492, Thu Sep 13 09:04:52 2018
+Device number : 33 time is : GMT= 1536829492, Thu Sep 13 09:04:52 2018
+Device number : 37 time is : GMT= 1536829493, Thu Sep 13 09:04:53 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829512, Thu Sep 13 09:05:12 2018
+Device number : 33 time is : GMT= 1536829512, Thu Sep 13 09:05:12 2018
+Device number : 37 time is : GMT= 1536829513, Thu Sep 13 09:05:13 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829514, Thu Sep 13 09:05:14 2018
+Device number : 33 time is : GMT= 1536829514, Thu Sep 13 09:05:14 2018
+Device number : 37 time is : GMT= 1536829514, Thu Sep 13 09:05:14 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829515, Thu Sep 13 09:05:15 2018
+Device number : 33 time is : GMT= 1536829515, Thu Sep 13 09:05:15 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829515, Thu Sep 13 09:05:15 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829516, Thu Sep 13 09:05:16 2018
+Device number : 33 time is : GMT= 1536829516, Thu Sep 13 09:05:16 2018
+Device number : 37 time is : GMT= 1536829516, Thu Sep 13 09:05:16 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829516, Thu Sep 13 09:05:16 2018
+Device number : 33 time is : GMT= 1536829516, Thu Sep 13 09:05:16 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829517, Thu Sep 13 09:05:17 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829517, Thu Sep 13 09:05:17 2018
+Device number : 33 time is : GMT= 1536829517, Thu Sep 13 09:05:17 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829517, Thu Sep 13 09:05:17 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829518, Thu Sep 13 09:05:18 2018
+Device number : 33 time is : GMT= 1536829518, Thu Sep 13 09:05:18 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829518, Thu Sep 13 09:05:18 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829530, Thu Sep 13 09:05:30 2018
+Device number : 33 time is : GMT= 1536829530, Thu Sep 13 09:05:30 2018
+Device number : 37 time is : GMT= 1536829530, Thu Sep 13 09:05:30 2018
+---------------------------------------------------------
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829531, Thu Sep 13 09:05:31 2018
+Device number : 33 time is : GMT= 1536829531, Thu Sep 13 09:05:31 2018
+Device number : 37 time is : GMT= 1536829531, Thu Sep 13 09:05:31 2018
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829577, Thu Sep 13 09:06:17 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829577, Thu Sep 13 09:06:17 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829578, Thu Sep 13 09:06:18 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829608, Thu Sep 13 09:06:48 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829609, Thu Sep 13 09:06:49 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829609, Thu Sep 13 09:06:49 2018
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829609, Thu Sep 13 09:06:49 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829610, Thu Sep 13 09:06:50 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829610, Thu Sep 13 09:06:50 2018
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829657, Thu Sep 13 09:07:37 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829657, Thu Sep 13 09:07:37 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829657, Thu Sep 13 09:07:37 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829753, Thu Sep 13 09:09:13 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829754, Thu Sep 13 09:09:14 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829754, Thu Sep 13 09:09:14 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829839, Thu Sep 13 09:10:39 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829839, Thu Sep 13 09:10:39 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829839, Thu Sep 13 09:10:39 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829905, Thu Sep 13 09:11:45 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829905, Thu Sep 13 09:11:45 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829905, Thu Sep 13 09:11:45 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829973, Thu Sep 13 09:12:53 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536829973, Thu Sep 13 09:12:53 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536829974, Thu Sep 13 09:12:54 2018
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536830034, Thu Sep 13 09:13:54 2018
+Device number : 33 time is : GMT= 1536830034, Thu Sep 13 09:13:54 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536830034, Thu Sep 13 09:13:54 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536847888, Thu Sep 13 14:11:28 2018
+Device number : 33 time is : GMT= 1536847889, Thu Sep 13 14:11:29 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536847888, Thu Sep 13 14:11:28 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536847975, Thu Sep 13 14:12:55 2018
+Device number : 33 time is : GMT= 1536847976, Thu Sep 13 14:12:56 2018
+Device number : 37 time is : GMT= 1536847975, Thu Sep 13 14:12:55 2018
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536848031, Thu Sep 13 14:13:51 2018
+Device number : 33 time is : GMT= 1536848031, Thu Sep 13 14:13:51 2018
+Device number : 37 time is : GMT= 1536848031, Thu Sep 13 14:13:51 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+330           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1536848034, Thu Sep 13 14:13:54 2018  | R
+330           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1536848034, Thu Sep 13 14:13:54 2018  | U
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536848035, Thu Sep 13 14:13:55 2018
+Device number : 33 time is : GMT= 1536848036, Thu Sep 13 14:13:56 2018
+Device number : 37 time is : GMT= 1536848035, Thu Sep 13 14:13:55 2018
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536848175, Thu Sep 13 14:16:15 2018
+Device number : 33 time is : GMT= 1536848176, Thu Sep 13 14:16:16 2018
+Device number : 37 time is : GMT= 1536848175, Thu Sep 13 14:16:15 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+------------- (7) - Set time to devices ---------------
+
+Time successfully set for device 27
+Time successfully set for device 33
+Time successfully set for device 37
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+--------------- (I) - Get logs by index -----------------
+Enter start index : 
+0
+
+Enter end index : 
+10
+Device [27] logs :
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+0           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1534157328, Mon Aug 13 10:48:48 2018  | L
+1           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1534157335, Mon Aug 13 10:48:55 2018  | L
+2           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1534157336, Mon Aug 13 10:48:56 2018  | L
+3           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1534157639, Mon Aug 13 10:53:59 2018  | L
+4           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1534157640, Mon Aug 13 10:54:00 2018  | L
+5           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1534157663, Mon Aug 13 10:54:23 2018  | L
+6           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1534157664, Mon Aug 13 10:54:24 2018  | L
+7           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1534157665, Mon Aug 13 10:54:25 2018  | L
+8           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1534157666, Mon Aug 13 10:54:26 2018  | L
+9           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1534157666, Mon Aug 13 10:54:26 2018  | L
+10           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1534157759, Mon Aug 13 10:55:59 2018  | L
+Device [33] logs :
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+0           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1534157610, Mon Aug 13 10:53:30 2018  | L
+1           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1534157611, Mon Aug 13 10:53:31 2018  | L
+2           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1534157612, Mon Aug 13 10:53:32 2018  | L
+3           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1534157612, Mon Aug 13 10:53:32 2018  | L
+4           |[136(0x88):UNLOCKED_WHITELIST]|    33       | 0     |    44     |    173D9476                |    4       |GMT= 1534162710, Mon Aug 13 12:18:30 2018  | L
+5           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1534173278, Mon Aug 13 15:14:38 2018  | L
+6           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1534173281, Mon Aug 13 15:14:41 2018  | L
+7           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1534173395, Mon Aug 13 15:16:35 2018  | L
+8           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1534173402, Mon Aug 13 15:16:42 2018  | L
+9           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1534173411, Mon Aug 13 15:16:51 2018  | L
+10           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1534173414, Mon Aug 13 15:16:54 2018  | L
+Device [37] logs :
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+0           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 108     |    44     |                    |    0       |GMT= 1534157583, Mon Aug 13 10:53:03 2018  | L
+1           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1534157613, Mon Aug 13 10:53:33 2018  | L
+2           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 109     |    44     |                    |    0       |GMT= 1534157613, Mon Aug 13 10:53:33 2018  | L
+3           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1534157614, Mon Aug 13 10:53:34 2018  | L
+4           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 108     |    44     |                    |    0       |GMT= 1534173268, Mon Aug 13 15:14:28 2018  | L
+5           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 108     |    44     |                    |    0       |GMT= 1534173273, Mon Aug 13 15:14:33 2018  | L
+6           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 108     |    44     |                    |    0       |GMT= 1534173405, Mon Aug 13 15:16:45 2018  | L
+7           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 108     |    44     |                    |    0       |GMT= 1534173407, Mon Aug 13 15:16:47 2018  | L
+8           |[136(0x88):UNLOCKED_WHITELIST]|    37       | 0     |    44     |    173D9476                |    4       |GMT= 1534245015, Tue Aug 14 11:10:15 2018  | L
+9           |[136(0x88):UNLOCKED_WHITELIST]|    38       | 0     |    44     |    173D9476                |    4       |GMT= 1534245162, Tue Aug 14 11:12:42 2018  | L
+10           |[32(0x20):ACTION_CARD_DISCARDED]|    38       | 109     |    44     |                    |    0       |GMT= 1534245565, Tue Aug 14 11:19:25 2018  | L
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
