@@ -1,3 +1,0 @@
-[submodule "ais_readers-manager-c-php-mysql"]
-	path = shell
-	url = https://git.d-logic.net/nfc-rfid-reader-sdk/ais_readers-manager-c-php-mysql.git

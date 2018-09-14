@@ -1,0 +1,468 @@
+# depslib dependency file v1.0
+1534857233 source:/home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/functions.cpp
+	<iostream>
+	"include/ais_readers.h"
+	"include/ais_readers_list.h"
+	"include/dl_status.h"
+	<string>
+	<cstring>
+	<string.h>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<vector>
+	<map>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	"include/conio_gnu.h"
+	<algorithm>
+	<iomanip>
+	"include/curl.h"
+	"include/functions.h"
+
+1531726168 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/ais_readers.h
+	<stdint.h>
+	<stdbool.h>
+	"handler.h"
+	"dl_status.h"
+	"ais_readers_list.h"
+	"ais_readers_undoc.h"
+
+1531726168 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/dl_status.h
+
+1531726168 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/ais_readers_list.h
+	<limits.h>
+
+1532087678 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1532087678 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/curlver.h
+
+1532087678 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1532087678 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/easy.h
+
+1532087678 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/multi.h
+	"curl.h"
+
+1532087678 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/typecheck-gcc.h
+
+1534855569 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/functions.h
+	<iostream>
+	"ais_readers.h"
+	"ais_readers_list.h"
+	"dl_status.h"
+	<string>
+	<cstring>
+	<string.h>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<vector>
+	<map>
+	"curl.h"
+
+1534855341 source:/home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/conio_gnu.cpp
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/ioctl.h>
+
+1534781175 source:/home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/utils.cpp
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	"ini.h"
+	"utils.h"
+
+1534781175 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/ini.h
+
+1534781175 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/utils.h
+
+1534855518 source:/home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	"include/conio_gnu.h"
+	"include/utils.h"
+	"include/functions.h"
+
+1534781175 /home/d-logic/Desktop/PROJEKTI/ais_readers-manager-c-php-mysql/include/conio_gnu.h
+
+1534861982 source:c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\functions.cpp
+	<iostream>
+	"include/ais_readers.h"
+	"include/ais_readers_list.h"
+	"include/dl_status.h"
+	<string>
+	<cstring>
+	<string.h>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<vector>
+	<map>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	"include/conio_gnu.h"
+	<algorithm>
+	<iomanip>
+	"include/curl.h"
+	"include/functions.h"
+
+1534861984 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\ais_readers.h
+	<stdint.h>
+	<stdbool.h>
+	"handler.h"
+	"dl_status.h"
+	"ais_readers_list.h"
+	"ais_readers_undoc.h"
+
+1534861983 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\dl_status.h
+
+1534861983 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\ais_readers_list.h
+	<limits.h>
+
+1534861984 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\conio_gnu.h
+
+1534861983 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1534861983 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\curlver.h
+
+1534861983 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1534861983 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\easy.h
+
+1534861983 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\multi.h
+	"curl.h"
+
+1534861983 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\typecheck-gcc.h
+
+1534861983 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\functions.h
+	<iostream>
+	"ais_readers.h"
+	"ais_readers_list.h"
+	"dl_status.h"
+	<string>
+	<cstring>
+	<string.h>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<vector>
+	<map>
+	"curl.h"
+
+1534861983 source:c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\conio_gnu.cpp
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/ioctl.h>
+
+1534861982 source:c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	"include/conio_gnu.h"
+	"include/utils.h"
+	"include/functions.h"
+
+1534861983 c:\users\dlogic\desktop\projekti\ais_readers-manager-c-php-mysql\ais_readers-manager-c-php-mysql\include\utils.h
+
+1535103811 source:c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\functions.cpp
+	<iostream>
+	"include/ais_readers.h"
+	"include/ais_readers_list.h"
+	"include/dl_status.h"
+	<string>
+	<cstring>
+	<string.h>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<vector>
+	<map>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	"include/conio_gnu.h"
+	<algorithm>
+	<iomanip>
+	"include/curl.h"
+	"include/functions.h"
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\ais_readers.h
+	<stdint.h>
+	<stdbool.h>
+	"handler.h"
+	"dl_status.h"
+	"ais_readers_list.h"
+	"ais_readers_undoc.h"
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\dl_status.h
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\ais_readers_list.h
+	<limits.h>
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\conio_gnu.h
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\curlver.h
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\easy.h
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\multi.h
+	"curl.h"
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\typecheck-gcc.h
+
+1535103717 c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\functions.h
+	<iostream>
+	"ais_readers.h"
+	"ais_readers_list.h"
+	"dl_status.h"
+	<string>
+	<cstring>
+	<string.h>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<vector>
+	<map>
+	"curl.h"
+
+1535103717 source:c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\include\conio_gnu.cpp
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/ioctl.h>
+
+1535103819 source:c:\users\dlogic\desktop\update\ais_readers-manager-c-php-mysql\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	"include/conio_gnu.h"
+	"include/functions.h"
+
+1535196647 source:c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\functions.cpp
+	<iostream>
+	"include/ais_readers.h"
+	"include/ais_readers_list.h"
+	"include/dl_status.h"
+	<string>
+	<cstring>
+	<string.h>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<vector>
+	<map>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	"include/conio_gnu.h"
+	<algorithm>
+	<iomanip>
+	"include/curl.h"
+	"include/functions.h"
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\ais_readers.h
+	<stdint.h>
+	<stdbool.h>
+	"handler.h"
+	"dl_status.h"
+	"ais_readers_list.h"
+	"ais_readers_undoc.h"
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\dl_status.h
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\ais_readers_list.h
+	<limits.h>
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\conio_gnu.h
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\curlver.h
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\easy.h
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\multi.h
+	"curl.h"
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\typecheck-gcc.h
+
+1535196647 c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\functions.h
+	<iostream>
+	"ais_readers.h"
+	"ais_readers_list.h"
+	"dl_status.h"
+	<string>
+	<cstring>
+	<string.h>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<vector>
+	<map>
+	"curl.h"
+
+1535196647 source:c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\include\conio_gnu.cpp
+	<termios.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/ioctl.h>
+
+1535196647 source:c:\users\aleksandar\desktop\projekti\codeblocks\ais_readers-manager-c-php-mysql\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	"include/conio_gnu.h"
+	"include/functions.h"
+
