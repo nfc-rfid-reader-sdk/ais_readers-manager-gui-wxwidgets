@@ -1,0 +1,2600 @@
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+327           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1536828436, Thu Sep 13 08:47:16 2018  | U
+
+Error while trying to send Real Time Event. CURL CODE = 7
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+327           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1536828436, Thu Sep 13 08:47:16 2018  | U
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828541, Thu Sep 13 08:49:01 2018
+Device number : 33 time is : GMT= 1536828540, Thu Sep 13 08:49:00 2018
+Device number : 37 time is : GMT= 1536828541, Thu Sep 13 08:49:01 2018
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828745, Thu Sep 13 08:52:25 2018
+Device number : 33 time is : GMT= 1536828744, Thu Sep 13 08:52:24 2018
+Device number : 37 time is : GMT= 1536828745, Thu Sep 13 08:52:25 2018
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828747, Thu Sep 13 08:52:27 2018
+Device number : 33 time is : GMT= 1536828746, Thu Sep 13 08:52:26 2018
+Device number : 37 time is : GMT= 1536828747, Thu Sep 13 08:52:27 2018
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828748, Thu Sep 13 08:52:28 2018
+Device number : 33 time is : GMT= 1536828748, Thu Sep 13 08:52:28 2018
+Device number : 37 time is : GMT= 1536828748, Thu Sep 13 08:52:28 2018
+---------------------------------------------------------
+------------- (7) - Set time to devices ---------------
+
+Time successfully set for device 27
+Time successfully set for device 33
+Time successfully set for device 37
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828755, Thu Sep 13 08:52:35 2018
+Device number : 33 time is : GMT= 1536828755, Thu Sep 13 08:52:35 2018
+Device number : 37 time is : GMT= 1536828754, Thu Sep 13 08:52:34 2018
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828756, Thu Sep 13 08:52:36 2018
+Device number : 33 time is : GMT= 1536828755, Thu Sep 13 08:52:35 2018
+Device number : 37 time is : GMT= 1536828755, Thu Sep 13 08:52:35 2018
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828757, Thu Sep 13 08:52:37 2018
+Device number : 33 time is : GMT= 1536828756, Thu Sep 13 08:52:36 2018
+Device number : 37 time is : GMT= 1536828755, Thu Sep 13 08:52:35 2018
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828758, Thu Sep 13 08:52:38 2018
+Device number : 33 time is : GMT= 1536828757, Thu Sep 13 08:52:37 2018
+Device number : 37 time is : GMT= 1536828756, Thu Sep 13 08:52:36 2018
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828758, Thu Sep 13 08:52:38 2018
+Device number : 33 time is : GMT= 1536828757, Thu Sep 13 08:52:37 2018
+Device number : 37 time is : GMT= 1536828757, Thu Sep 13 08:52:37 2018
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828759, Thu Sep 13 08:52:39 2018
+Device number : 33 time is : GMT= 1536828758, Thu Sep 13 08:52:38 2018
+Device number : 37 time is : GMT= 1536828758, Thu Sep 13 08:52:38 2018
+---------------------------------------------------------
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536828760, Thu Sep 13 08:52:40 2018
+Device number : 33 time is : GMT= 1536828759, Thu Sep 13 08:52:39 2018
+Device number : 37 time is : GMT= 1536828758, Thu Sep 13 08:52:38 2018
+---------------------------------------------------------
+------------- (7) - Set time to devices ---------------
+
+Time successfully set for device 27
+Time successfully set for device 33
+Time successfully set for device 37
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829000, Thu Sep 13 08:56:40 2018
+Device number : 33 time is : GMT= 1536829001, Thu Sep 13 08:56:41 2018
+Device number : 37 time is : GMT= 1536829001, Thu Sep 13 08:56:41 2018
+---------------------------------------------------------
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536829008, Thu Sep 13 08:56:48 2018
+Device number : 33 time is : GMT= 1536829008, Thu Sep 13 08:56:48 2018
+Device number : 37 time is : GMT= 1536829008, Thu Sep 13 08:56:48 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 0
+
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+668           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 108     |    44     |                    |    0       |GMT= 1536845370, Thu Sep 13 13:29:30 2018  | U
+
+Error while trying to send Real Time Event. CURL CODE = 7
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 0
+
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+668           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 108     |    44     |                    |    0       |GMT= 1536845370, Thu Sep 13 13:29:30 2018  | U
+669           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 108     |    44     |                    |    0       |GMT= 1536845399, Thu Sep 13 13:29:59 2018  | U
+670           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 108     |    44     |                    |    0       |GMT= 1536845523, Thu Sep 13 13:32:03 2018  | U
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845595, Thu Sep 13 13:33:15 2018
+Device number : 33 time is : GMT= 1536845595, Thu Sep 13 13:33:15 2018
+Device number : 37 time is : GMT= 1536845595, Thu Sep 13 13:33:15 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845595, Thu Sep 13 13:33:15 2018
+Device number : 33 time is : GMT= 1536845596, Thu Sep 13 13:33:16 2018
+Device number : 37 time is : GMT= 1536845596, Thu Sep 13 13:33:16 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845596, Thu Sep 13 13:33:16 2018
+Device number : 33 time is : GMT= 1536845596, Thu Sep 13 13:33:16 2018
+Device number : 37 time is : GMT= 1536845596, Thu Sep 13 13:33:16 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845596, Thu Sep 13 13:33:16 2018
+Device number : 33 time is : GMT= 1536845596, Thu Sep 13 13:33:16 2018
+Device number : 37 time is : GMT= 1536845596, Thu Sep 13 13:33:16 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845596, Thu Sep 13 13:33:16 2018
+Device number : 33 time is : GMT= 1536845597, Thu Sep 13 13:33:17 2018
+Device number : 37 time is : GMT= 1536845597, Thu Sep 13 13:33:17 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845597, Thu Sep 13 13:33:17 2018
+Device number : 33 time is : GMT= 1536845597, Thu Sep 13 13:33:17 2018
+Device number : 37 time is : GMT= 1536845597, Thu Sep 13 13:33:17 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845597, Thu Sep 13 13:33:17 2018
+Device number : 33 time is : GMT= 1536845597, Thu Sep 13 13:33:17 2018
+Device number : 37 time is : GMT= 1536845597, Thu Sep 13 13:33:17 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845597, Thu Sep 13 13:33:17 2018
+Device number : 33 time is : GMT= 1536845598, Thu Sep 13 13:33:18 2018
+Device number : 37 time is : GMT= 1536845598, Thu Sep 13 13:33:18 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845598, Thu Sep 13 13:33:18 2018
+Device number : 33 time is : GMT= 1536845598, Thu Sep 13 13:33:18 2018
+Device number : 37 time is : GMT= 1536845598, Thu Sep 13 13:33:18 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845598, Thu Sep 13 13:33:18 2018
+Device number : 33 time is : GMT= 1536845598, Thu Sep 13 13:33:18 2018
+Device number : 37 time is : GMT= 1536845598, Thu Sep 13 13:33:18 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845598, Thu Sep 13 13:33:18 2018
+Device number : 33 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+Device number : 37 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+Device number : 33 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+Device number : 37 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+Device number : 33 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+Device number : 37 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+Device number : 33 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+Device number : 37 time is : GMT= 1536845600, Thu Sep 13 13:33:20 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845599, Thu Sep 13 13:33:19 2018
+Device number : 33 time is : GMT= 1536845600, Thu Sep 13 13:33:20 2018
+Device number : 37 time is : GMT= 1536845600, Thu Sep 13 13:33:20 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845600, Thu Sep 13 13:33:20 2018
+Device number : 33 time is : GMT= 1536845600, Thu Sep 13 13:33:20 2018
+Device number : 37 time is : GMT= 1536845600, Thu Sep 13 13:33:20 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845600, Thu Sep 13 13:33:20 2018
+Device number : 33 time is : GMT= 1536845600, Thu Sep 13 13:33:20 2018
+Device number : 37 time is : GMT= 1536845601, Thu Sep 13 13:33:21 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845600, Thu Sep 13 13:33:20 2018
+Device number : 33 time is : GMT= 1536845601, Thu Sep 13 13:33:21 2018
+Device number : 37 time is : GMT= 1536845601, Thu Sep 13 13:33:21 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845601, Thu Sep 13 13:33:21 2018
+Device number : 33 time is : GMT= 1536845601, Thu Sep 13 13:33:21 2018
+Device number : 37 time is : GMT= 1536845601, Thu Sep 13 13:33:21 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845601, Thu Sep 13 13:33:21 2018
+Device number : 33 time is : GMT= 1536845601, Thu Sep 13 13:33:21 2018
+Device number : 37 time is : GMT= 1536845602, Thu Sep 13 13:33:22 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536845601, Thu Sep 13 13:33:21 2018----------- (6) - Send all logs to database -------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 0
+
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 0
+
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 0
+
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846449, Thu Sep 13 13:47:29 2018
+Device number : 33 time is : GMT= 1536846449, Thu Sep 13 13:47:29 2018
+Device number : 37 time is : GMT= 1536846449, Thu Sep 13 13:47:29 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846449, Thu Sep 13 13:47:29 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846450, Thu Sep 13 13:47:30 2018
+Device number : 37 time is : GMT= 1536846449, Thu Sep 13 13:47:29 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846450, Thu Sep 13 13:47:30 2018
+Device number : 33 time is : GMT= 1536846450, Thu Sep 13 13:47:30 2018
+Device number : 37 time is : GMT= 1536846450, Thu Sep 13 13:47:30 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846450, Thu Sep 13 13:47:30 2018
+Device number : 33 time is : GMT= 1536846451, Thu Sep 13 13:47:31 2018
+Device number : 37 time is : GMT= 1536846450, Thu Sep 13 13:47:30 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846450, Thu Sep 13 13:47:30 2018
+Device number : 33 time is : GMT= 1536846451, Thu Sep 13 13:47:31 2018
+Device number : 37 time is : GMT= 1536846450, Thu Sep 13 13:47:30 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846451, Thu Sep 13 13:47:31 2018
+Device number : 33 time is : GMT= 1536846451, Thu Sep 13 13:47:31 2018
+Device number : 37 time is : GMT= 1536846450, Thu Sep 13 13:47:30 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846451, Thu Sep 13 13:47:31 2018
+Device number : 33 time is : GMT= 1536846451, Thu Sep 13 13:47:31 2018
+Device number : 37 time is : GMT= 1536846451, Thu Sep 13 13:47:31 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846451, Thu Sep 13 13:47:31 2018
+Device number : 33 time is : GMT= 1536846452, Thu Sep 13 13:47:32 2018
+Device number : 37 time is : GMT= 1536846451, Thu Sep 13 13:47:31 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846452, Thu Sep 13 13:47:32 2018
+Device number : 33 time is : GMT= 1536846452, Thu Sep 13 13:47:32 2018
+Device number : 37 time is : GMT= 1536846451, Thu Sep 13 13:47:31 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846452, Thu Sep 13 13:47:32 2018
+Device number : 33 time is : GMT= 1536846452, Thu Sep 13 13:47:32 2018
+Device number : 37 time is : GMT= 1536846452, Thu Sep 13 13:47:32 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846452, Thu Sep 13 13:47:32 2018
+Device number : 33 time is : GMT= 1536846453, Thu Sep 13 13:47:33 2018
+Device number : 37 time is : GMT= 1536846452, Thu Sep 13 13:47:32 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846452, Thu Sep 13 13:47:32 2018
+Device number : 33 time is : GMT= 1536846453, Thu Sep 13 13:47:33 2018
+Device number : 37 time is : GMT= 1536846452, Thu Sep 13 13:47:32 2018
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846576, Thu Sep 13 13:49:36 2018
+Device number : 33 time is : GMT= 1536846576, Thu Sep 13 13:49:36 2018
+Device number : 37 time is : GMT= 1536846576, Thu Sep 13 13:49:36 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846576, Thu Sep 13 13:49:36 2018
+Device number : 33 time is : GMT= 1536846577, Thu Sep 13 13:49:37 2018
+Device number : 37 time is : GMT= 1536846576, Thu Sep 13 13:49:36 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846576, Thu Sep 13 13:49:36 2018
+Device number : 33 time is : GMT= 1536846577, Thu Sep 13 13:49:37 2018
+Device number : 37 time is : GMT= 1536846576, Thu Sep 13 13:49:36 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846577, Thu Sep 13 13:49:37 2018
+Device number : 33 time is : GMT= 1536846577, Thu Sep 13 13:49:37 2018
+Device number : 37 time is : GMT= 1536846576, Thu Sep 13 13:49:36 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846577, Thu Sep 13 13:49:37 2018
+Device number : 33 time is : GMT= 1536846577, Thu Sep 13 13:49:37 2018
+Device number : 37 time is : GMT= 1536846577, Thu Sep 13 13:49:37 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846577, Thu Sep 13 13:49:37 2018
+Device number : 33 time is : GMT= 1536846578, Thu Sep 13 13:49:38 2018
+Device number : 37 time is : GMT= 1536846577, Thu Sep 13 13:49:37 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846578, Thu Sep 13 13:49:38 2018
+Device number : 33 time is : GMT= 1536846578, Thu Sep 13 13:49:38 2018
+Device number : 37 time is : GMT= 1536846577, Thu Sep 13 13:49:37 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846578, Thu Sep 13 13:49:38 2018
+Device number : 33 time is : GMT= 1536846579, Thu Sep 13 13:49:39 2018
+Device number : 37 time is : GMT= 1536846578, Thu Sep 13 13:49:38 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846578, Thu Sep 13 13:49:38 2018
+Device number : 33 time is : GMT= 1536846579, Thu Sep 13 13:49:39 2018
+Device number : 37 time is : GMT= 1536846578, Thu Sep 13 13:49:38 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846579, Thu Sep 13 13:49:39 2018
+Device number : 33 time is : GMT= 1536846579, Thu Sep 13 13:49:39 2018
+Device number : 37 time is : GMT= 1536846578, Thu Sep 13 13:49:38 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846579, Thu Sep 13 13:49:39 2018
+Device number : 33 time is : GMT= 1536846579, Thu Sep 13 13:49:39 2018
+Device number : 37 time is : GMT= 1536846579, Thu Sep 13 13:49:39 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846579, Thu Sep 13 13:49:39 2018
+Device number : 33 time is : GMT= 1536846580, Thu Sep 13 13:49:40 2018
+Device number : 37 time is : GMT= 1536846579, Thu Sep 13 13:49:39 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846580, Thu Sep 13 13:49:40 2018
+Device number : 33 time is : GMT= 1536846580, Thu Sep 13 13:49:40 2018
+Device number : 37 time is : GMT= 1536846580, Thu Sep 13 13:49:40 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846580, Thu Sep 13 13:49:40 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846581, Thu Sep 13 13:49:41 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846580, Thu Sep 13 13:49:40 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846581, Thu Sep 13 13:49:41 2018
+Device number : 33 time is : GMT= 1536846581, Thu Sep 13 13:49:41 2018
+Device number : 37 time is : GMT= 1536846581, Thu Sep 13 13:49:41 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846581, Thu Sep 13 13:49:41 2018
+Device number : 33 time is : GMT= 1536846582, Thu Sep 13 13:49:42 2018
+Device number : 37 time is : GMT= 1536846581, Thu Sep 13 13:49:41 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846581, Thu Sep 13 13:49:41 2018
+Device number : 33 time is : GMT= 1536846582, Thu Sep 13 13:49:42 2018
+Device number : 37 time is : GMT= 1536846581, Thu Sep 13 13:49:41 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846582, Thu Sep 13 13:49:42 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846582, Thu Sep 13 13:49:42 2018
+Device number : 37 time is : GMT= 1536846582, Thu Sep 13 13:49:42 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846582, Thu Sep 13 13:49:42 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846583, Thu Sep 13 13:49:43 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846582, Thu Sep 13 13:49:42 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846583, Thu Sep 13 13:49:43 2018
+Device number : 33 time is : GMT= 1536846583, Thu Sep 13 13:49:43 2018
+Device number : 37 time is : GMT= 1536846583, Thu Sep 13 13:49:43 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846583, Thu Sep 13 13:49:43 2018
+Device number : 33 time is : GMT= 1536846584, Thu Sep 13 13:49:44 2018
+Device number : 37 time is : GMT= 1536846583, Thu Sep 13 13:49:43 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846584, Thu Sep 13 13:49:44 2018
+Device number : 33 time is : GMT= 1536846584, Thu Sep 13 13:49:44 2018
+Device number : 37 time is : GMT= 1536846584, Thu Sep 13 13:49:44 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846584, Thu Sep 13 13:49:44 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846585, Thu Sep 13 13:49:45 2018
+Device number : 37 time is : GMT= 1536846584, Thu Sep 13 13:49:44 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846585, Thu Sep 13 13:49:45 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846585, Thu Sep 13 13:49:45 2018
+Device number : 37 time is : GMT= 1536846584, Thu Sep 13 13:49:44 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846585, Thu Sep 13 13:49:45 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846586, Thu Sep 13 13:49:46 2018
+Device number : 37 time is : GMT= 1536846585, Thu Sep 13 13:49:45 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846585, Thu Sep 13 13:49:45 2018
+Device number : 33 time is : GMT= 1536846586, Thu Sep 13 13:49:46 2018
+Device number : 37 time is : GMT= 1536846585, Thu Sep 13 13:49:45 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846586, Thu Sep 13 13:49:46 2018
+Device number : 33 time is : GMT= 1536846586, Thu Sep 13 13:49:46 2018
+Device number : 37 time is : GMT= 1536846586, Thu Sep 13 13:49:46 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846586, Thu Sep 13 13:49:46 2018
+Device number : 33 time is : GMT= 1536846587, Thu Sep 13 13:49:47 2018
+Device number : 37 time is : GMT= 1536846586, Thu Sep 13 13:49:46 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846587, Thu Sep 13 13:49:47 2018
+Device number : 33 time is : GMT= 1536846587, Thu Sep 13 13:49:47 2018
+Device number : 37 time is : GMT= 1536846586, Thu Sep 13 13:49:46 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846587, Thu Sep 13 13:49:47 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846588, Thu Sep 13 13:49:48 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846587, Thu Sep 13 13:49:47 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846587, Thu Sep 13 13:49:47 2018
+Device number : 33 time is : GMT= 1536846588, Thu Sep 13 13:49:48 2018
+Device number : 37 time is : GMT= 1536846587, Thu Sep 13 13:49:47 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846588, Thu Sep 13 13:49:48 2018
+Device number : 33 time is : GMT= 1536846588, Thu Sep 13 13:49:48 2018
+Device number : 37 time is : GMT= 1536846588, Thu Sep 13 13:49:48 2018
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846639, Thu Sep 13 13:50:39 2018
+Device number : 33 time is : GMT= 1536846639, Thu Sep 13 13:50:39 2018
+Device number : 37 time is : GMT= 1536846639, Thu Sep 13 13:50:39 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846639, Thu Sep 13 13:50:39 2018
+Device number : 33 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+Device number : 37 time is : GMT= 1536846639, Thu Sep 13 13:50:39 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+Device number : 33 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+Device number : 37 time is : GMT= 1536846639, Thu Sep 13 13:50:39 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+Device number : 33 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+Device number : 37 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+Device number : 33 time is : GMT= 1536846641, Thu Sep 13 13:50:41 2018
+Device number : 37 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+Device number : 33 time is : GMT= 1536846641, Thu Sep 13 13:50:41 2018
+Device number : 37 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846641, Thu Sep 13 13:50:41 2018
+Device number : 33 time is : GMT= 1536846641, Thu Sep 13 13:50:41 2018
+Device number : 37 time is : GMT= 1536846640, Thu Sep 13 13:50:40 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846641, Thu Sep 13 13:50:41 2018
+Device number : 33 time is : GMT= 1536846641, Thu Sep 13 13:50:41 2018
+Device number : 37 time is : GMT= 1536846641, Thu Sep 13 13:50:41 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846641, Thu Sep 13 13:50:41 2018
+Device number : 33 time is : GMT= 1536846642, Thu Sep 13 13:50:42 2018
+Device number : 37 time is : GMT= 1536846641, Thu Sep 13 13:50:41 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846642, Thu Sep 13 13:50:42 2018
+Device number : 33 time is : GMT= 1536846642, Thu Sep 13 13:50:42 2018
+Device number : 37 time is : GMT= 1536846641, Thu Sep 13 13:50:41 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846642, Thu Sep 13 13:50:42 2018
+Device number : 33 time is : GMT= 1536846642, Thu Sep 13 13:50:42 2018
+Device number : 37 time is : GMT= 1536846642, Thu Sep 13 13:50:42 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846642, Thu Sep 13 13:50:42 2018
+Device number : 33 time is : GMT= 1536846643, Thu Sep 13 13:50:43 2018
+Device number : 37 time is : GMT= 1536846642, Thu Sep 13 13:50:42 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846642, Thu Sep 13 13:50:42 2018
+Device number : 33 time is : GMT= 1536846643, Thu Sep 13 13:50:43 2018
+Device number : 37 time is : GMT= 1536846642, Thu Sep 13 13:50:42 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846643, Thu Sep 13 13:50:43 2018
+Device number : 33 time is : GMT= 1536846643, Thu Sep 13 13:50:43 2018
+Device number : 37 time is : GMT= 1536846643, Thu Sep 13 13:50:43 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846643, Thu Sep 13 13:50:43 2018
+Device number : 33 time is : GMT= 1536846644, Thu Sep 13 13:50:44 2018
+Device number : 37 time is : GMT= 1536846643, Thu Sep 13 13:50:43 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846643, Thu Sep 13 13:50:43 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846644, Thu Sep 13 13:50:44 2018
+Device number : 37 time is : GMT= 1536846643, Thu Sep 13 13:50:43 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846644, Thu Sep 13 13:50:44 2018
+Device number : 33 time is : GMT= 1536846644, Thu Sep 13 13:50:44 2018
+Device number : 37 time is : GMT= 1536846644, Thu Sep 13 13:50:44 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846644, Thu Sep 13 13:50:44 2018
+Device number : 33 time is : GMT= 1536846645, Thu Sep 13 13:50:45 2018
+Device number : 37 time is : GMT= 1536846644, Thu Sep 13 13:50:44 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846644, Thu Sep 13 13:50:44 2018
+Device number : 33 time is : GMT= 1536846645, Thu Sep 13 13:50:45 2018
+Device number : 37 time is : GMT= 1536846644, Thu Sep 13 13:50:44 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846645, Thu Sep 13 13:50:45 2018
+Device number : 33 time is : GMT= 1536846645, Thu Sep 13 13:50:45 2018
+Device number : 37 time is : GMT= 1536846644, Thu Sep 13 13:50:44 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846645, Thu Sep 13 13:50:45 2018
+Device number : 33 time is : GMT= 1536846645, Thu Sep 13 13:50:45 2018
+Device number : 37 time is : GMT= 1536846645, Thu Sep 13 13:50:45 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846645, Thu Sep 13 13:50:45 2018
+Device number : 33 time is : GMT= 1536846646, Thu Sep 13 13:50:46 2018
+Device number : 37 time is : GMT= 1536846645, Thu Sep 13 13:50:45 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846646, Thu Sep 13 13:50:46 2018
+Device number : 33 time is : GMT= 1536846646, Thu Sep 13 13:50:46 2018
+Device number : 37 time is : GMT= 1536846645, Thu Sep 13 13:50:45 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846646, Thu Sep 13 13:50:46 2018
+Device number : 33 time is : GMT= 1536846646, Thu Sep 13 13:50:46 2018
+Device number : 37 time is : GMT= 1536846646, Thu Sep 13 13:50:46 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846646, Thu Sep 13 13:50:46 2018
+Device number : 33 time is : GMT= 1536846647, Thu Sep 13 13:50:47 2018
+Device number : 37 time is : GMT= 1536846646, Thu Sep 13 13:50:46 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846646, Thu Sep 13 13:50:46 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846647, Thu Sep 13 13:50:47 2018
+Device number : 37 time is : GMT= 1536846646, Thu Sep 13 13:50:46 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846647, Thu Sep 13 13:50:47 2018
+Device number : 33 time is : GMT= 1536846647, Thu Sep 13 13:50:47 2018
+Device number : 37 time is : GMT= 1536846647, Thu Sep 13 13:50:47 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846647, Thu Sep 13 13:50:47 2018
+Device number : 33 time is : GMT= 1536846648, Thu Sep 13 13:50:48 2018
+Device number : 37 time is : GMT= 1536846647, Thu Sep 13 13:50:47 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846648, Thu Sep 13 13:50:48 2018
+Device number : 33 time is : GMT= 1536846648, Thu Sep 13 13:50:48 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846648, Thu Sep 13 13:50:48 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846648, Thu Sep 13 13:50:48 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846649, Thu Sep 13 13:50:49 2018
+Device number : 37 time is : GMT= 1536846648, Thu Sep 13 13:50:48 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846648, Thu Sep 13 13:50:48 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846649, Thu Sep 13 13:50:49 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846648, Thu Sep 13 13:50:48 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846649, Thu Sep 13 13:50:49 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846650, Thu Sep 13 13:50:50 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846649, Thu Sep 13 13:50:49 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846650, Thu Sep 13 13:50:50 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846650, Thu Sep 13 13:50:50 2018
+Device number : 37 time is : GMT= 1536846649, Thu Sep 13 13:50:49 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846650, Thu Sep 13 13:50:50 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846651, Thu Sep 13 13:50:51 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846650, Thu Sep 13 13:50:50 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846651, Thu Sep 13 13:50:51 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846651, Thu Sep 13 13:50:51 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846651, Thu Sep 13 13:50:51 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846651, Thu Sep 13 13:50:51 2018
+Device number : 33 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+Device number : 37 time is : GMT= 1536846651, Thu Sep 13 13:50:51 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+Device number : 33 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+Device number : 37 time is : GMT= 1536846651, Thu Sep 13 13:50:51 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+Device number : 33 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+Device number : 37 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+Device number : 33 time is : GMT= 1536846653, Thu Sep 13 13:50:53 2018
+Device number : 37 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+Device number : 33 time is : GMT= 1536846653, Thu Sep 13 13:50:53 2018
+Device number : 37 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846653, Thu Sep 13 13:50:53 2018
+Device number : 33 time is : GMT= 1536846653, Thu Sep 13 13:50:53 2018
+Device number : 37 time is : GMT= 1536846652, Thu Sep 13 13:50:52 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846653, Thu Sep 13 13:50:53 2018
+Device number : 33 time is : GMT= 1536846653, Thu Sep 13 13:50:53 2018
+Device number : 37 time is : GMT= 1536846653, Thu Sep 13 13:50:53 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846653, Thu Sep 13 13:50:53 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846654, Thu Sep 13 13:50:54 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846653, Thu Sep 13 13:50:53 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846654, Thu Sep 13 13:50:54 2018
+Device number : 33 time is : GMT= 1536846654, Thu Sep 13 13:50:54 2018
+Device number : 37 time is : GMT= 1536846654, Thu Sep 13 13:50:54 2018
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846654, Thu Sep 13 13:50:54 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846655, Thu Sep 13 13:50:55 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846654, Thu Sep 13 13:50:54 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846655, Thu Sep 13 13:50:55 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846655, Thu Sep 13 13:50:55 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846655, Thu Sep 13 13:50:55 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846655, Thu Sep 13 13:50:55 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846656, Thu Sep 13 13:50:56 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846655, Thu Sep 13 13:50:55 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+---------------------------------------------------------
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+-------------- (8) - Get time from devices ----------------
+
+Device number : 27 time is : GMT= 1536846656, Thu Sep 13 13:50:56 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 33 time is : GMT= 1536846657, Thu Sep 13 13:50:57 2018 +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+Device number : 37 time is : GMT= 1536846656, Thu Sep 13 13:50:56 2018

@@ -1,0 +1,398 @@
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
+Number of connected devices = 3
+
+Device whose ID = 27 is successfully opened.
+Device whose ID = 33 is successfully opened.
+Device whose ID = 37 is successfully opened.
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.14.7      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+---------------- (T) - Get logs by time -----------------
+Enter time from where to start reading (hours:minutes:seconds day.month.year) : 
+12:00:00 25.08.2018
+Enter time to when to stop reading (hours:minutes:seconds day.month.year) : 
+13:00:00 28.08.2018
+Device [27] logs :
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+348           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535209417, Sat Aug 25 15:03:37 2018  | L
+349           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535209806, Sat Aug 25 15:10:06 2018  | L
+350           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535210010, Sat Aug 25 15:13:30 2018  | L
+351           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535223053, Sat Aug 25 18:50:53 2018  | L
+352           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535224083, Sat Aug 25 19:08:03 2018  | L
+353           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535224145, Sat Aug 25 19:09:05 2018  | L
+354           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535224213, Sat Aug 25 19:10:13 2018  | L
+355           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535224218, Sat Aug 25 19:10:18 2018  | L
+356           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535224302, Sat Aug 25 19:11:42 2018  | L
+357           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535224316, Sat Aug 25 19:11:56 2018  | L
+358           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535284072, Sun Aug 26 11:47:52 2018  | L
+359           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535284101, Sun Aug 26 11:48:21 2018  | L
+360           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535284102, Sun Aug 26 11:48:22 2018  | L
+361           |[32(0x20):ACTION_CARD_DISCARDED]|    27       | 109     |    44     |                    |    0       |GMT= 1535284157, Sun Aug 26 11:49:17 2018  | L
+362           |[136(0x88):UNLOCKED_WHITELIST]|    27       | 0     |    44     |    A48EF161                |    4       |GMT= 1535284236, Sun Aug 26 11:50:36 2018  | L
+363           |[136(0x88):UNLOCKED_WHITELIST]|    27       | 0     |    44     |    A48EF161                |    4       |GMT= 1535284238, Sun Aug 26 11:50:38 2018  | L
+364           |[136(0x88):UNLOCKED_WHITELIST]|    28       | 0     |    44     |    A48EF161                |    4       |GMT= 1535284240, Sun Aug 26 11:50:40 2018  | L
+365           |[32(0x20):ACTION_CARD_DISCARDED]|    27       | 109     |    44     |                    |    0       |GMT= 1535284267, Sun Aug 26 11:51:07 2018  | L
+366           |[32(0x20):ACTION_CARD_DISCARDED]|    27       | 109     |    44     |                    |    0       |GMT= 1535284281, Sun Aug 26 11:51:21 2018  | L
+367           |[32(0x20):ACTION_CARD_DISCARDED]|    27       | 109     |    44     |                    |    0       |GMT= 1535284284, Sun Aug 26 11:51:24 2018  | L
+368           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535284289, Sun Aug 26 11:51:29 2018  | L
+369           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535284767, Sun Aug 26 11:59:27 2018  | L
+370           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535284768, Sun Aug 26 11:59:28 2018  | L
+371           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288371, Sun Aug 26 12:59:31 2018  | L
+372           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288373, Sun Aug 26 12:59:33 2018  | L
+373           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288378, Sun Aug 26 12:59:38 2018  | L
+374           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288379, Sun Aug 26 12:59:39 2018  | L
+375           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288379, Sun Aug 26 12:59:39 2018  | L
+376           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288387, Sun Aug 26 12:59:47 2018  | L
+377           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288387, Sun Aug 26 12:59:47 2018  | L
+378           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288431, Sun Aug 26 13:00:31 2018  | L
+379           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288435, Sun Aug 26 13:00:35 2018  | L
+380           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288436, Sun Aug 26 13:00:36 2018  | L
+381           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288436, Sun Aug 26 13:00:36 2018  | L
+382           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288441, Sun Aug 26 13:00:41 2018  | L
+383           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288441, Sun Aug 26 13:00:41 2018  | L
+384           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288442, Sun Aug 26 13:00:42 2018  | L
+385           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288445, Sun Aug 26 13:00:45 2018  | L
+386           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288447, Sun Aug 26 13:00:47 2018  | L
+387           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288448, Sun Aug 26 13:00:48 2018  | L
+388           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288448, Sun Aug 26 13:00:48 2018  | L
+389           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288711, Sun Aug 26 13:05:11 2018  | L
+390           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535288715, Sun Aug 26 13:05:15 2018  | L
+391           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288731, Sun Aug 26 13:05:31 2018  | L
+392           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288732, Sun Aug 26 13:05:32 2018  | L
+393           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288733, Sun Aug 26 13:05:33 2018  | L
+394           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288735, Sun Aug 26 13:05:35 2018  | L
+395           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288736, Sun Aug 26 13:05:36 2018  | L
+396           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288737, Sun Aug 26 13:05:37 2018  | L
+397           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288738, Sun Aug 26 13:05:38 2018  | L
+398           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288739, Sun Aug 26 13:05:39 2018  | L
+399           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288740, Sun Aug 26 13:05:40 2018  | L
+400           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288751, Sun Aug 26 13:05:51 2018  | L
+401           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288752, Sun Aug 26 13:05:52 2018  | L
+402           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288752, Sun Aug 26 13:05:52 2018  | L
+403           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288753, Sun Aug 26 13:05:53 2018  | L
+404           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288754, Sun Aug 26 13:05:54 2018  | L
+405           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288755, Sun Aug 26 13:05:55 2018  | L
+406           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288756, Sun Aug 26 13:05:56 2018  | L
+407           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288756, Sun Aug 26 13:05:56 2018  | L
+408           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288757, Sun Aug 26 13:05:57 2018  | L
+409           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288758, Sun Aug 26 13:05:58 2018  | L
+410           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288782, Sun Aug 26 13:06:22 2018  | L
+411           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288783, Sun Aug 26 13:06:23 2018  | L
+412           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288783, Sun Aug 26 13:06:23 2018  | L
+413           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288784, Sun Aug 26 13:06:24 2018  | L
+414           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288785, Sun Aug 26 13:06:25 2018  | L
+415           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288786, Sun Aug 26 13:06:26 2018  | L
+416           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288786, Sun Aug 26 13:06:26 2018  | L
+417           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288787, Sun Aug 26 13:06:27 2018  | L
+418           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288788, Sun Aug 26 13:06:28 2018  | L
+419           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535288789, Sun Aug 26 13:06:29 2018  | L
+420           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 108     |    44     |                    |    0       |GMT= 1535359074, Mon Aug 27 08:37:54 2018  | L
+421           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535359099, Mon Aug 27 08:38:19 2018  | L
+422           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535359444, Mon Aug 27 08:44:04 2018  | L
+423           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 108     |    44     |                    |    0       |GMT= 1535360576, Mon Aug 27 09:02:56 2018  | L
+424           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535365680, Mon Aug 27 10:28:00 2018  | L
+425           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 108     |    44     |                    |    0       |GMT= 1535365681, Mon Aug 27 10:28:01 2018  | L
+426           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535365706, Mon Aug 27 10:28:26 2018  | L
+427           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 108     |    44     |                    |    0       |GMT= 1535365707, Mon Aug 27 10:28:27 2018  | L
+428           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535366983, Mon Aug 27 10:49:43 2018  | L
+429           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535367002, Mon Aug 27 10:50:02 2018  | L
+430           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535367075, Mon Aug 27 10:51:15 2018  | L
+431           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535367626, Mon Aug 27 11:00:26 2018  | L
+432           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 108     |    44     |                    |    0       |GMT= 1535367629, Mon Aug 27 11:00:29 2018  | L
+433           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535369326, Mon Aug 27 11:28:46 2018  | L
+434           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535369333, Mon Aug 27 11:28:53 2018  | L
+435           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535369351, Mon Aug 27 11:29:11 2018  | L
+436           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535369401, Mon Aug 27 11:30:01 2018  | L
+437           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535373410, Mon Aug 27 12:36:50 2018  | L
+438           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535373410, Mon Aug 27 12:36:50 2018  | L
+439           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535373411, Mon Aug 27 12:36:51 2018  | L
+440           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535373412, Mon Aug 27 12:36:52 2018  | L
+441           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535373671, Mon Aug 27 12:41:11 2018  | L
+442           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535373674, Mon Aug 27 12:41:14 2018  | L
+443           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535373675, Mon Aug 27 12:41:15 2018  | L
+444           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535373675, Mon Aug 27 12:41:15 2018  | L
+445           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535373676, Mon Aug 27 12:41:16 2018  | L
+446           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 109     |    44     |                    |    0       |GMT= 1535373676, Mon Aug 27 12:41:16 2018  | L
+447           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535376772, Mon Aug 27 13:32:52 2018  | L
+448           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535376806, Mon Aug 27 13:33:26 2018  | L
+449           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535378056, Mon Aug 27 13:54:16 2018  | L
+450           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380006, Mon Aug 27 14:26:46 2018  | L
+451           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380031, Mon Aug 27 14:27:11 2018  | L
+452           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380032, Mon Aug 27 14:27:12 2018  | L
+453           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380033, Mon Aug 27 14:27:13 2018  | L
+454           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380033, Mon Aug 27 14:27:13 2018  | L
+455           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380034, Mon Aug 27 14:27:14 2018  | L
+456           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380035, Mon Aug 27 14:27:15 2018  | L
+457           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380035, Mon Aug 27 14:27:15 2018  | L
+458           |[32(0x20):ACTION_CARD_DISCARDED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380248, Mon Aug 27 14:30:48 2018  | L
+459           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380263, Mon Aug 27 14:31:03 2018  | L
+460           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380539, Mon Aug 27 14:35:39 2018  | L
+461           |[32(0x20):ACTION_CARD_DISCARDED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380557, Mon Aug 27 14:35:57 2018  | L
+462           |[32(0x20):ACTION_CARD_DISCARDED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380617, Mon Aug 27 14:36:57 2018  | L
+463           |[32(0x20):ACTION_CARD_DISCARDED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380837, Mon Aug 27 14:40:37 2018  | L
+464           |[128(0x80):ACTION_CARD_UNLOCKED]|    27       | 109     |    44     |                    |    0       |GMT= 1535380956, Mon Aug 27 14:42:36 2018  | L
+465           |[32(0x20):ACTION_CARD_DISCARDED]|    27       | 109     |    44     |                    |    0       |GMT= 1535381047, Mon Aug 27 14:44:07 2018  | L
+466           |[128(0x80):ACTION_CARD_UNLOCKED]|    28       | 108     |    44     |                    |    0       |GMT= 1535442286, Tue Aug 28 07:44:46 2018  | L
+Device [33] logs :
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+146           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535224317, Sat Aug 25 19:11:57 2018  | L
+147           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535224318, Sat Aug 25 19:11:58 2018  | L
+148           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535284104, Sun Aug 26 11:48:24 2018  | L
+149           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535284172, Sun Aug 26 11:49:32 2018  | L
+150           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288373, Sun Aug 26 12:59:33 2018  | L
+151           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288374, Sun Aug 26 12:59:34 2018  | L
+152           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288376, Sun Aug 26 12:59:36 2018  | L
+153           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288377, Sun Aug 26 12:59:37 2018  | L
+154           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288379, Sun Aug 26 12:59:39 2018  | L
+155           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288380, Sun Aug 26 12:59:40 2018  | L
+156           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288385, Sun Aug 26 12:59:45 2018  | L
+157           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288385, Sun Aug 26 12:59:45 2018  | L
+158           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288433, Sun Aug 26 13:00:33 2018  | L
+159           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288434, Sun Aug 26 13:00:34 2018  | L
+160           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288436, Sun Aug 26 13:00:36 2018  | L
+161           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288439, Sun Aug 26 13:00:39 2018  | L
+162           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288440, Sun Aug 26 13:00:40 2018  | L
+163           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288442, Sun Aug 26 13:00:42 2018  | L
+164           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288443, Sun Aug 26 13:00:43 2018  | L
+165           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288445, Sun Aug 26 13:00:45 2018  | L
+166           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288446, Sun Aug 26 13:00:46 2018  | L
+167           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288446, Sun Aug 26 13:00:46 2018  | L
+168           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288449, Sun Aug 26 13:00:49 2018  | L
+169           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288449, Sun Aug 26 13:00:49 2018  | L
+170           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288455, Sun Aug 26 13:00:55 2018  | L
+171           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288456, Sun Aug 26 13:00:56 2018  | L
+172           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288711, Sun Aug 26 13:05:11 2018  | L
+173           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288712, Sun Aug 26 13:05:12 2018  | L
+174           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288714, Sun Aug 26 13:05:14 2018  | L
+175           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288715, Sun Aug 26 13:05:15 2018  | L
+176           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288828, Sun Aug 26 13:07:08 2018  | L
+177           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288829, Sun Aug 26 13:07:09 2018  | L
+178           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288830, Sun Aug 26 13:07:10 2018  | L
+179           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288830, Sun Aug 26 13:07:10 2018  | L
+180           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288831, Sun Aug 26 13:07:11 2018  | L
+181           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288832, Sun Aug 26 13:07:12 2018  | L
+182           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288833, Sun Aug 26 13:07:13 2018  | L
+183           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288833, Sun Aug 26 13:07:13 2018  | L
+184           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288834, Sun Aug 26 13:07:14 2018  | L
+185           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288835, Sun Aug 26 13:07:15 2018  | L
+186           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 109     |    44     |                    |    0       |GMT= 1535288914, Sun Aug 26 13:08:34 2018  | L
+187           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288934, Sun Aug 26 13:08:54 2018  | L
+188           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288934, Sun Aug 26 13:08:54 2018  | L
+189           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288935, Sun Aug 26 13:08:55 2018  | L
+190           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288935, Sun Aug 26 13:08:55 2018  | L
+191           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288936, Sun Aug 26 13:08:56 2018  | L
+192           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288937, Sun Aug 26 13:08:57 2018  | L
+193           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288939, Sun Aug 26 13:08:59 2018  | L
+194           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288940, Sun Aug 26 13:09:00 2018  | L
+195           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288940, Sun Aug 26 13:09:00 2018  | L
+196           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288941, Sun Aug 26 13:09:01 2018  | L
+197           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288954, Sun Aug 26 13:09:14 2018  | L
+198           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288955, Sun Aug 26 13:09:15 2018  | L
+199           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288956, Sun Aug 26 13:09:16 2018  | L
+200           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288956, Sun Aug 26 13:09:16 2018  | L
+201           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288957, Sun Aug 26 13:09:17 2018  | L
+202           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288958, Sun Aug 26 13:09:18 2018  | L
+203           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288959, Sun Aug 26 13:09:19 2018  | L
+204           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288961, Sun Aug 26 13:09:21 2018  | L
+205           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288962, Sun Aug 26 13:09:22 2018  | L
+206           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288963, Sun Aug 26 13:09:23 2018  | L
+207           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288963, Sun Aug 26 13:09:23 2018  | L
+208           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288977, Sun Aug 26 13:09:37 2018  | L
+209           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288977, Sun Aug 26 13:09:37 2018  | L
+210           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288978, Sun Aug 26 13:09:38 2018  | L
+211           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288979, Sun Aug 26 13:09:39 2018  | L
+212           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288980, Sun Aug 26 13:09:40 2018  | L
+213           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288980, Sun Aug 26 13:09:40 2018  | L
+214           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288981, Sun Aug 26 13:09:41 2018  | L
+215           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288982, Sun Aug 26 13:09:42 2018  | L
+216           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288983, Sun Aug 26 13:09:43 2018  | L
+217           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288984, Sun Aug 26 13:09:44 2018  | L
+218           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 109     |    44     |                    |    0       |GMT= 1535288984, Sun Aug 26 13:09:44 2018  | L
+219           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535359073, Mon Aug 27 08:37:53 2018  | L
+220           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535359189, Mon Aug 27 08:39:49 2018  | L
+221           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535359250, Mon Aug 27 08:40:50 2018  | L
+222           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535359374, Mon Aug 27 08:42:54 2018  | L
+223           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535359458, Mon Aug 27 08:44:18 2018  | L
+224           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535359637, Mon Aug 27 08:47:17 2018  | L
+225           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535359680, Mon Aug 27 08:48:00 2018  | L
+226           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535359682, Mon Aug 27 08:48:02 2018  | L
+227           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360077, Mon Aug 27 08:54:37 2018  | L
+228           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535360078, Mon Aug 27 08:54:38 2018  | L
+229           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360164, Mon Aug 27 08:56:04 2018  | L
+230           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360218, Mon Aug 27 08:56:58 2018  | L
+231           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535360223, Mon Aug 27 08:57:03 2018  | L
+232           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360247, Mon Aug 27 08:57:27 2018  | L
+233           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535360308, Mon Aug 27 08:58:28 2018  | L
+234           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360350, Mon Aug 27 08:59:10 2018  | L
+235           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535360358, Mon Aug 27 08:59:18 2018  | L
+236           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360427, Mon Aug 27 09:00:27 2018  | L
+237           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360462, Mon Aug 27 09:01:02 2018  | L
+238           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360499, Mon Aug 27 09:01:39 2018  | L
+239           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360570, Mon Aug 27 09:02:50 2018  | L
+240           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535360572, Mon Aug 27 09:02:52 2018  | L
+241           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360591, Mon Aug 27 09:03:11 2018  | L
+242           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535360609, Mon Aug 27 09:03:29 2018  | L
+243           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535361166, Mon Aug 27 09:12:46 2018  | L
+244           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535361380, Mon Aug 27 09:16:20 2018  | L
+245           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535361569, Mon Aug 27 09:19:29 2018  | L
+246           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535361572, Mon Aug 27 09:19:32 2018  | L
+247           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535361593, Mon Aug 27 09:19:53 2018  | L
+248           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535361783, Mon Aug 27 09:23:03 2018  | L
+249           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535365503, Mon Aug 27 10:25:03 2018  | L
+250           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535365675, Mon Aug 27 10:27:55 2018  | L
+251           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535365678, Mon Aug 27 10:27:58 2018  | L
+252           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535369322, Mon Aug 27 11:28:42 2018  | L
+253           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535369352, Mon Aug 27 11:29:12 2018  | L
+254           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535369355, Mon Aug 27 11:29:15 2018  | L
+255           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535369405, Mon Aug 27 11:30:05 2018  | L
+256           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535370018, Mon Aug 27 11:40:18 2018  | L
+257           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535376794, Mon Aug 27 13:33:14 2018  | L
+258           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535439107, Tue Aug 28 06:51:47 2018  | L
+259           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535439108, Tue Aug 28 06:51:48 2018  | L
+260           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535442284, Tue Aug 28 07:44:44 2018  | L
+261           |[128(0x80):ACTION_CARD_UNLOCKED]|    34       | 108     |    44     |                    |    0       |GMT= 1535442285, Tue Aug 28 07:44:45 2018  | L
+262           |[128(0x80):ACTION_CARD_UNLOCKED]|    33       | 108     |    44     |                    |    0       |GMT= 1535456414, Tue Aug 28 11:40:14 2018  | L
+Device [37] logs :
+
+=======================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time                     |Type|
+=======================================================================================================================================================================
+336           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535224328, Sat Aug 25 19:12:08 2018  | L
+337           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288375, Sun Aug 26 12:59:35 2018  | L
+338           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 109     |    44     |                    |    0       |GMT= 1535288376, Sun Aug 26 12:59:36 2018  | L
+339           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288376, Sun Aug 26 12:59:36 2018  | L
+340           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288381, Sun Aug 26 12:59:41 2018  | L
+341           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 109     |    44     |                    |    0       |GMT= 1535288384, Sun Aug 26 12:59:44 2018  | L
+342           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288384, Sun Aug 26 12:59:44 2018  | L
+343           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 109     |    44     |                    |    0       |GMT= 1535288432, Sun Aug 26 13:00:32 2018  | L
+344           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288433, Sun Aug 26 13:00:33 2018  | L
+345           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288438, Sun Aug 26 13:00:38 2018  | L
+346           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 109     |    44     |                    |    0       |GMT= 1535288438, Sun Aug 26 13:00:38 2018  | L
+347           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288443, Sun Aug 26 13:00:43 2018  | L
+348           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 109     |    44     |                    |    0       |GMT= 1535288444, Sun Aug 26 13:00:44 2018  | L
+349           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288444, Sun Aug 26 13:00:44 2018  | L
+350           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288457, Sun Aug 26 13:00:57 2018  | L
+351           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 109     |    44     |                    |    0       |GMT= 1535288709, Sun Aug 26 13:05:09 2018  | L
+352           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288709, Sun Aug 26 13:05:09 2018  | L
+353           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288713, Sun Aug 26 13:05:13 2018  | L
+354           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 109     |    44     |                    |    0       |GMT= 1535288714, Sun Aug 26 13:05:14 2018  | L
+355           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288877, Sun Aug 26 13:07:57 2018  | L
+356           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288878, Sun Aug 26 13:07:58 2018  | L
+357           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288878, Sun Aug 26 13:07:58 2018  | L
+358           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288879, Sun Aug 26 13:07:59 2018  | L
+359           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288880, Sun Aug 26 13:08:00 2018  | L
+360           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288883, Sun Aug 26 13:08:03 2018  | L
+361           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288883, Sun Aug 26 13:08:03 2018  | L
+362           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288884, Sun Aug 26 13:08:04 2018  | L
+363           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 109     |    44     |                    |    0       |GMT= 1535288885, Sun Aug 26 13:08:05 2018  | L
+364           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288886, Sun Aug 26 13:08:06 2018  | L
+365           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 109     |    44     |                    |    0       |GMT= 1535288886, Sun Aug 26 13:08:06 2018  | L
+366           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288887, Sun Aug 26 13:08:07 2018  | L
+367           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288909, Sun Aug 26 13:08:29 2018  | L
+368           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288910, Sun Aug 26 13:08:30 2018  | L
+369           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288910, Sun Aug 26 13:08:30 2018  | L
+370           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288911, Sun Aug 26 13:08:31 2018  | L
+371           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288912, Sun Aug 26 13:08:32 2018  | L
+372           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288912, Sun Aug 26 13:08:32 2018  | L
+373           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288913, Sun Aug 26 13:08:33 2018  | L
+374           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288916, Sun Aug 26 13:08:36 2018  | L
+375           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 109     |    44     |                    |    0       |GMT= 1535288916, Sun Aug 26 13:08:36 2018  | L
+376           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 108     |    44     |                    |    0       |GMT= 1535359078, Mon Aug 27 08:37:58 2018  | L
+377           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 108     |    44     |                    |    0       |GMT= 1535359684, Mon Aug 27 08:48:04 2018  | L
+378           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 108     |    44     |                    |    0       |GMT= 1535360617, Mon Aug 27 09:03:37 2018  | L
+379           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 108     |    44     |                    |    0       |GMT= 1535365708, Mon Aug 27 10:28:28 2018  | L
+380           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 108     |    44     |                    |    0       |GMT= 1535365709, Mon Aug 27 10:28:29 2018  | L
+381           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 108     |    44     |                    |    0       |GMT= 1535376802, Mon Aug 27 13:33:22 2018  | L
+382           |[128(0x80):ACTION_CARD_UNLOCKED]|    37       | 108     |    44     |                    |    0       |GMT= 1535442283, Tue Aug 28 07:44:43 2018  | L
+383           |[128(0x80):ACTION_CARD_UNLOCKED]|    38       | 108     |    44     |                    |    0       |GMT= 1535442284, Tue Aug 28 07:44:44 2018  | L
+---------------------------------------------------------
+Checking readers.ini...OK.
+
+Adding devices for check and opening devices...
